@@ -54,14 +54,14 @@ export const workDetails = [
     Company: `Company Name here`,
     Location: "Remote",
     Type: "Internship",
-    Duration: "Feb 2024 - Feb 2024",
+    Duration: "dec 2024 - dec 2024",
   },
   {
     Position: "SoftWare Developer Internship",
     Company: `cloud Connection`,
     Location: "Remote",
     Type: "Internship",
-    Duration: "jan 2024 - Current",
+    Duration: "jan 2024 - jun 2024",
   }
 ];
 
@@ -100,7 +100,7 @@ export const projectDetails = [
     image: projectImage2,
     description: ``,
     techstack: "React Js, JavaScript",
-    previewLink: "",
+    previewLink: "https://movies-rate-app.netlify.app/",
     githubLink: "https://github.com/tejaskamble99/MOVIES-Rating-app.git",
   },
 
