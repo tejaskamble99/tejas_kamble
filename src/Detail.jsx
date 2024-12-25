@@ -22,6 +22,8 @@ import postman from "./assets/techstack/postman.png";
 // Porject Images
 import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
+import projectImage3 from "./assets/projects/project3.jpg";
+
 
 
 
@@ -92,7 +94,7 @@ export const projectDetails = [
     image: projectImage1,
     description: ``,
     techstack: "React Js, JavaScript , Node Js , Express , Socket IO",
-    previewLink: "",
+    previewLink: " Not Available",
     githubLink: "https://github.com/tejaskamble99/Realtime-chatapp.git",
   },
   {
@@ -101,6 +103,14 @@ export const projectDetails = [
     description: ``,
     techstack: "React Js, JavaScript",
     previewLink: "https://movies-rate-app.netlify.app/",
+    githubLink: "https://github.com/tejaskamble99/MOVIES-Rating-app.git",
+  },
+  {
+    title: "To-Do App",
+    image: projectImage3,
+    description: ``,
+    techstack: "React Js, JavaScript , Next Js",  
+    previewLink: "https://todo-list-nextjs.netlify.app/",
     githubLink: "https://github.com/tejaskamble99/MOVIES-Rating-app.git",
   },
 
