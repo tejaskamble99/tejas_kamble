@@ -89,6 +89,16 @@ export const techStackDetails = {
 
 // Enter your Project Details here
 export const projectDetails = [
+
+
+  {
+    title: "Game App",
+    image: projectImage3,
+    description: ``,
+    techstack: "React Js, JavaScript ",  
+    previewLink: "https://games-to.netlify.app/",
+    githubLink: "https://github.com/tejaskamble99/games",
+  },
   {
     title: "RealTime Chat App",
     image: projectImage1,
@@ -112,8 +122,8 @@ export const projectDetails = [
     techstack: "React Js, JavaScript , Next Js",  
     previewLink: "https://todo-list-nextjs.netlify.app/",
     githubLink: "https://github.com/tejaskamble99/MOVIES-Rating-app.git",
-  },
-
+  }
+ 
 
 ];
 
