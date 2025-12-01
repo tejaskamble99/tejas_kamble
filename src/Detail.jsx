@@ -51,12 +51,12 @@ export const socialMediaUrl = {
 
 // Enter your Work Experience here
 export const workDetails = [
-  {
-    Position: "Data Analysis using python ",
-    Company: `Company Name here`,
-    Location: "Remote",
-    Type: "Internship",
-    Duration: "dec 2024 - dec 2024",
+     {
+    Position: "Web Developer ",
+    Company: `Raino Digi Media`,
+    Location: "On-Site",
+    Type: "Full Time",
+    Duration: "Mar 2025 - Present",
   },
   {
     Position: "SoftWare Developer Internship",
@@ -64,7 +64,15 @@ export const workDetails = [
     Location: "Remote",
     Type: "Internship",
     Duration: "jan 2024 - jun 2024",
+  },
+    {
+    Position: "Data Analysis using python ",
+    Company: `Company Name here`,
+    Location: "Remote",
+    Type: "Internship",
+    Duration: "dec 2024 - dec 2024",
   }
+
 ];
 
 // Enter your Education Details here
