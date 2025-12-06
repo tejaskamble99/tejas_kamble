@@ -14,7 +14,7 @@ function NavBar() {
   // Function to handle the resume download
   const handleResumeDownload = () => {
     // Replace 'resumeUrl' with the direct download link to your resume
-    const resumeUrl = 'https://drive.google.com/file/d/1Wd2Dqw6Nvgntijq9ZX_FiBzLRWaWNg6_/view?usp=sharing';
+    const resumeUrl = 'https://drive.google.com/file/d/1xQI5nxwAD0ZkB7G-ZzkqQ6pXbkAmdILv/view?usp=drive_link';
     const link = document.createElement('a');
     link.href = resumeUrl;
     link.setAttribute('download', 'resume.pdf');
