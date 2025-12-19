@@ -1,5 +1,6 @@
 // App.js
 import React from "react";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 import NavBar from "./components/NavPages/NavBar";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import About from "./components/pages/About";
@@ -23,6 +24,7 @@ function App() {
           <Route path="/contact" element={<ContactMe />} />
         </Routes>
       </Router>
+      <SpeedInsights />
     </>
   );
 }
